@@ -1,0 +1,38 @@
+.App {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    padding: 20px;
+    background-color:aquamarine;
+    
+  }
+  
+  input {
+    padding: 10px;
+    margin: 10px;
+    width: 300px;
+  }
+  
+  button {
+    padding: 10px 20px;
+    margin: 5px;
+    cursor: pointer;
+  }
+  .b {
+    margin: 7px;
+    background-color: blue;
+    border-radius: 7px;
+    color: #f0f0f0;
+    padding: 3px ;
+  }
+  
+  pre {
+    text-align: left;
+    margin-top: 20px;
+    background: #f0f0f0;
+    padding: 10px;
+    border-radius: 10px;
+    max-height: 700px;
+    max-width:max-content;
+    overflow: auto;
+  }
+  
